@@ -1,0 +1,10 @@
+1. index.html defines home page (yiyuanli.site), change index.html will change the home page layout; index.html is stored at theme\hugo-theme-crisp\layouts
+
+2. CSS flex-box: adjusting the layout of HTML pages to form-fit. HOW?????
+
+
+
+
+Next week:
+
+Learn about css and figure out how to insert an image into index.html
